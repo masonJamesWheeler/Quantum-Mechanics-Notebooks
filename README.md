@@ -42,24 +42,6 @@ The repository structure is as follows:
 
 Each `HW<i>_*.ipynb` file is a Jupyter notebook containing the homework associated with the corresponding course module.
 
-## Usage
-
-These Jupyter notebooks can be run on platforms that support them, such as JupyterLab, Jupyter Notebook, or Google Colab.
-
-1. Clone the repository to your local machine.
-```bash
-git clone <repository_link>
-```
-2. Navigate to the directory.
-```bash
-cd <directory_name>
-```
-3. Open the desired Jupyter notebook.
-```bash
-jupyter notebook HW<i>_*.ipynb
-```
-
-Remember to replace `<i>` and `*` with the specific homework number and topic you wish to review.
 
 ## Contact
 
@@ -67,6 +49,6 @@ Feel free to contact me for any questions, discussions, or clarifications about 
 
 **Contact Information:**
 
-*Your contact information here*
+*masewheeler@outlook.com - 360-975-8555*
 
 ---
